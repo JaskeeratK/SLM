@@ -136,21 +136,3 @@ second quarter...
 ```
 
 ---
-
-## Setup
-
-```bash
-pip install torch transformers datasets
-```
-
-Open `SLM.ipynb` in Google Colab. Set runtime to **T4 GPU** (Runtime → Change runtime type → T4 GPU). Run all cells top to bottom.
-
----
-
-## References
-
-- Vaswani et al. (2017) — [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- Radford et al. (2019) — [GPT-2: Language Models are Unsupervised Multitask Learners](https://openai.com/research/language-unsupervised)
-- He et al. (2015) — [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
-- Merity et al. (2016) — [WikiText-2 Dataset](https://arxiv.org/abs/1609.07843)
-- Karpathy (2022) — [nanoGPT](https://github.com/karpathy/nanoGPT)
